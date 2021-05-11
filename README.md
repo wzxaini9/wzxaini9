@@ -16,7 +16,8 @@
  * 对用户留存分析、商品管理、订单管理、优惠券、商品集、后台权限、中奖概率、冷热数据缓存处理等方面有较多经验。
   
  * 熟悉 Umeng、Jpush、Easemob、WeChat、Ali等第三方平台接口开发及第三方平台API调用。
-  
+
+### 小程序码
 ![微信小程序](https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg "微信小程序")
 ![QQ小程序](https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png "QQ小程序")
 
