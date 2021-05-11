@@ -18,12 +18,12 @@
  * 熟悉 Umeng、Jpush、Easemob、WeChat、Ali等第三方平台接口开发及第三方平台API调用。
 
 ### 小程序码
-<img align="left" src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" width=246 title="微信小程序">
-<img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" width=246 title="QQ小程序">
+<img align="left" src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" width=320 title="微信小程序">
+<img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" width=320 title="QQ小程序">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxaini9&bg_color=1A1B27&text_color=54DBAE&title_color=77A5FF&layout=compact" align="right" >
-<img src="https://github-readme-stats.vercel.app/api?username=wzxaini9&theme=tokyonight&count_private=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxaini9&bg_color=1A1B27&text_color=54DBAE&title_color=77A5FF&layout=compact" width=240 align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=wzxaini9&theme=tokyonight&count_private=true&show_icons=true" width=480 >
 
 
 <!--
