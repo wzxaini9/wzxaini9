@@ -18,10 +18,9 @@
  * 熟悉 Umeng、Jpush、Easemob、WeChat、Ali等第三方平台接口开发及第三方平台API调用。
 
 ### 小程序码
-![微信小程序](https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg "微信小程序")
-![QQ小程序](https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png "QQ小程序")
+<img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" width=246 title="微信小程序">     <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" width=246 title="QQ小程序">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wzxaini9&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img src="https://github-readme-stats.vercel.app/api?username=wzxaini9">
 
 <!--
 **wzxaini9/wzxaini9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
