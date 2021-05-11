@@ -21,8 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxaini9&bg_color=1A1B27&text_color=54DBAE&title_color=77A5FF&layout=compact" height=160>
 
 ### 小程序码
-<img align="left" src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" height=320 title="微信小程序">
-<img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" height=320 title="QQ小程序">
+<img align="left" src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" height=160 title="微信小程序" alt="微信小程序">
+<img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" height=160 title="QQ小程序" alt="QQ小程序">
 <!--
 **wzxaini9/wzxaini9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
