@@ -23,7 +23,8 @@
 ### 小程序码
 <img align="left" src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" height=160 title="微信小程序" alt="微信小程序">
 <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" height=160 title="QQ小程序" alt="QQ小程序">
-##### (由于墙的问题，有时候图片会加载不出来，多试几次吧)
+
+##### (由于大家都懂的原因，图片如果没加载出来，就多刷新几次吧)
 <!--
 **wzxaini9/wzxaini9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
