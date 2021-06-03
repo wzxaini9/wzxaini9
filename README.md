@@ -20,7 +20,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wzxaini9&theme=tokyonight&count_private=true&show_icons=true" height=160>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxaini9&bg_color=1A1B27&text_color=54DBAE&title_color=77A5FF&layout=compact" height=160>
 
-### 小程序码
+### 小程序码 (由于墙的问题，有时候图片会加载不出来，多试几次吧)
 <img align="left" src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/wxxcx.jpg" height=160 title="微信小程序" alt="微信小程序">
 <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/assets/code/qqxcx.png" height=160 title="QQ小程序" alt="QQ小程序">
 <!--
