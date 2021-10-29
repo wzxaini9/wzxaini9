@@ -1,5 +1,5 @@
 ## Hi there, I'm [Powerless](https://wzxaini9.cn). 👋👋👋
- * ThinkCMF框架主要贡献者、优秀的PHP工程师、2014年加入ThinkCMF贡献者团队，2015年成为主要贡献者。参与了ThinkCMF的多个版本开发。
+ * 无产阶级手艺工作者、ThinkCMF框架主要贡献者、资深PHP工程师、2014年加入ThinkCMF贡献者团队，2015年成为主要贡献者。参与了ThinkCMF的多个版本开发。
   
  * 从业至今参与开发过论坛、电商、夺宝、直播、资讯、物流等类型项目，遵循RESTAPI、PSR规范，代码结构清晰。
   
