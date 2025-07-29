@@ -1,21 +1,14 @@
 ## Hi there, I'm [Powerless](https://wzxaini9.cn). 👋👋👋
  * 无产阶级手艺工作者、ThinkCMF框架主要贡献者、资深PHP工程师、2014年加入ThinkCMF贡献者团队，2015年成为主要贡献者。参与了ThinkCMF的多个版本开发。
-  
- * 从业至今参与开发过论坛、电商、夺宝、直播、资讯、物流等类型项目，遵循RESTAPI、PSR规范，代码结构清晰。
-  
- * 具备较强的团队管理能力、项目管理能力，善于分析问题和良好的需求理解能力。
-  
- * 喜欢新鲜事物、时刻关注新的技术趋势，并尽可能的应用到新的项目中去。
-  
- * 2014年2月至2016年5月期间分别担任（CTO） & （Team Leader）。
-  
- * 熟练使用Git、SVN等版本控制工具，在GitHub上有8个个人项目。
-  
- * 熟悉LNMP \ WNMP架构、Redis缓存、多域名配置、常用Shell命令、了解服务器集群搭建原理，可快速搭建服务器。
-  
- * 对用户留存分析、商品管理、订单管理、优惠券、商品集、后台权限、中奖概率、冷热数据缓存处理等方面有较多经验。
-  
- * 熟悉 Umeng、Jpush、Easemob、WeChat、Ali等第三方平台接口开发及第三方平台API调用。
+
+ * 作为国内知名开源框架 ThinkCMF 的主要贡献者，参与了众多热门领域的项目开发，覆盖ToB/ToC场景，始终坚持遵循 RESTful API 和 PSR 规范，确保代码结构清晰、易维护。曾担任项目负责人，具备出色的团队管理与项目推进能力。
+
+ * 熟练使用 Git 进行版本控制，具备丰富的大型开源项目经验，并在 GitHub 上维护多个项目。对 LNMP / WNMP 架构、Redis 缓存、多域名配置及常用 Shell 命令有深入理解，掌握服务器环境快速搭建及集群部署原理。
+
+ * 在业务系统建设方面经验丰富，擅长用户留存分析、商品与订单管理、优惠券系统、模块化架构设计、派单算法、冷热数据缓存、推荐与推送系统、中奖概率计算及 GRPC 服务调用等，能够灵活引入最新技术优化产品体验和系统性能。
+
+ * 熟悉友盟、极光推送、环信、微信、阿里等主流第三方平台 API 的集成与开发，了解云函数的应用。具备全面的技术视野和项目统筹能力，能在多技术场景中提供稳定高效的解决方案。
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wzxaini9&theme=tokyonight&count_private=true&show_icons=true" height=160>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxaini9&bg_color=1A1B27&text_color=54DBAE&title_color=77A5FF&layout=compact" height=160>
