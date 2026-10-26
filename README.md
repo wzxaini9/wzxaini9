@@ -23,17 +23,11 @@
 ### 🛠 技术栈
 `PHP` `ThinkPHP` `Laravel` `Yii2` `MySQL` `MariaDB` `Redis` `Ubuntu` `Nginx` `LNMP` `Workerman` `Vue3` `uni-app`
 
-### 🌱 持续关注
-云原生 · 架构治理 · 工程化与研发效能
-
-### 🤝 欢迎合作
-ThinkCMF 插件共建 · 遗留系统改造方案咨询 · 复杂系统重构
-
-### 💬 聊得来
-PHP/Java 双栈迁移 · Dubbo 依赖治理 · 直播云迁移踩坑 · 团队技术管理
-
-### 📫 联系方式
-📧 wzxaini9@126.com ｜ 🌐 [www.wzxaini9.cn](https://www.wzxaini9.cn)
+### 📌 更多信息
+🌱 持续关注：云原生 · 架构治理 · 工程化与研发效能  
+🤝 欢迎合作：ThinkCMF 插件共建 · 遗留系统改造方案咨询 · 复杂系统重构  
+💬 聊得来：PHP/Java 双栈迁移 · Dubbo 依赖治理 · 直播云迁移踩坑 · 团队技术管理  
+📫 联系我：wzxaini9@126.com ｜ [www.wzxaini9.cn](https://www.wzxaini9.cn)
 
 ### ⚡ 一句话
 **写干净的代码，做靠谱的系统，带能打的团队。**
@@ -65,7 +59,10 @@ PHP/Java 双栈迁移 · Dubbo 依赖治理 · 直播云迁移踩坑 · 团队�
   <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/code/wxxcx.png" height="160" title="微信小程序" alt="微信小程序" />
   <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/code/qqxcx.png" height="160" title="QQ小程序" alt="QQ小程序" />
 </p>
-<br/>
+
+> **微信小程序 / QQ小程序**：基于个人网站 [www.wzxaini9.cn](https://www.wzxaini9.cn) 的内容体系开发，同步展示站点文章、技术笔记与项目动态，支持多端统一内容管理与独立部署。
+>
+> **技术栈**：uni-app / Vue3 / Vite / JSON API / CDN 独立部署
 
 ---
 
