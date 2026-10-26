@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Powerless](https://wzxaini9.cn)
+# Hi, I'm [Powerless](https://wzxaini9.cn)👋👋👋 
 
 <p align="center">
   <b>无产阶级手艺工作者 · ThinkCMF 主要贡献者 · 有代码洁癖的程序员</b>
@@ -57,9 +57,9 @@
 ### 📱 Mini Programs
 
 <p align="center">
-  <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/code/wxxcx.png" width="140" alt="微信小程序" />
+  <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/code/wxxcx.png" width="140" title="微信小程序" alt="微信小程序" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/code/qqxcx.png" width="140" alt="QQ 小程序" />
+  <img src="https://cdn.wzxaini9.cn/themes/wzxaini9/public/code/qqxcx.png" width="140" title="QQ小程序" alt="QQ小程序" />
 </p>
 
 <p align="center">
@@ -71,5 +71,6 @@
 ---
 
 <p align="center">
-  <i>写干净的代码，做靠谱的系统，带能打的团队。</i>
+  <i>写干净的代码，做靠谱的系统，带能打的团队。</i><br>
+  <sub>Thanks for visiting. Feel free to connect! 🤝</sub>
 </p>
